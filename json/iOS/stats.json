@@ -1,0 +1,130 @@
+[
+    {
+        "major-version": "iPhone OS 1",
+        "total-days-between-all-updates": "382",
+        "average-days-between-updates": "47.75",
+        "most-days-between-updates": "140",
+        "least-days-between-updates": "13",
+        "median-days-between-updates": "37"
+    },
+    {
+        "major-version": "iPhone OS 2",
+        "total-days-between-all-updates": "200",
+        "average-days-between-updates": "33.3333333333333",
+        "most-days-between-updates": "70",
+        "least-days-between-updates": "3",
+        "median-days-between-updates": "23"
+    },
+    {
+        "major-version": "iPhone OS 3",
+        "total-days-between-all-updates": "420",
+        "average-days-between-updates": "52.5",
+        "most-days-between-updates": "117",
+        "least-days-between-updates": "8",
+        "median-days-between-updates": "42"
+    },
+    {
+        "major-version": "iOS 4",
+        "total-days-between-all-updates": "469",
+        "average-days-between-updates": "39.0833333333333",
+        "most-days-between-updates": "102",
+        "least-days-between-updates": "10",
+        "median-days-between-updates": "25.5"
+    },
+    {
+        "major-version": "iOS 5",
+        "total-days-between-all-updates": "226",
+        "average-days-between-updates": "45.2",
+        "most-days-between-updates": "86",
+        "least-days-between-updates": "18",
+        "median-days-between-updates": "32"
+    },
+    {
+        "major-version": "iOS 6",
+        "total-days-between-all-updates": "520",
+        "average-days-between-updates": "57.7777777777778",
+        "most-days-between-updates": "196",
+        "least-days-between-updates": "8",
+        "median-days-between-updates": "43"
+    },
+    {
+        "major-version": "iOS 7",
+        "total-days-between-all-updates": "285",
+        "average-days-between-updates": "31.6666666666667",
+        "most-days-between-updates": "76",
+        "least-days-between-updates": "2",
+        "median-days-between-updates": "23"
+    },
+    {
+        "major-version": "iOS 8",
+        "total-days-between-all-updates": "330",
+        "average-days-between-updates": "33",
+        "most-days-between-updates": "83",
+        "least-days-between-updates": "1",
+        "median-days-between-updates": "29"
+    },
+    {
+        "major-version": "iOS 9",
+        "total-days-between-all-updates": "1405",
+        "average-days-between-updates": "78.0555555555556",
+        "most-days-between-updates": "1061",
+        "least-days-between-updates": "1",
+        "median-days-between-updates": "21"
+    },
+    {
+        "major-version": "iOS 10",
+        "total-days-between-all-updates": "309",
+        "average-days-between-updates": "28.0909090909091",
+        "most-days-between-updates": "65",
+        "least-days-between-updates": "0",
+        "median-days-between-updates": "24"
+    },
+    {
+        "major-version": "iOS 11",
+        "total-days-between-all-updates": "355",
+        "average-days-between-updates": "23.6666666666667",
+        "most-days-between-updates": "69",
+        "least-days-between-updates": "7",
+        "median-days-between-updates": "20"
+    },
+    {
+        "major-version": "iOS 12",
+        "total-days-between-all-updates": "1650",
+        "average-days-between-updates": "55",
+        "most-days-between-updates": "342",
+        "least-days-between-updates": "1",
+        "median-days-between-updates": "40.5"
+    },
+    {
+        "major-version": "iOS 13",
+        "total-days-between-all-updates": "362",
+        "average-days-between-updates": "19.0526315789474",
+        "most-days-between-updates": "56",
+        "least-days-between-updates": "2",
+        "median-days-between-updates": "14"
+    },
+    {
+        "major-version": "iOS 14",
+        "total-days-between-all-updates": "405",
+        "average-days-between-updates": "25.3125",
+        "most-days-between-updates": "56",
+        "least-days-between-updates": "1",
+        "median-days-between-updates": "23"
+    },
+    {
+        "major-version": "iOS 15",
+        "total-days-between-all-updates": "672",
+        "average-days-between-updates": "30.5454545454545",
+        "most-days-between-updates": "65",
+        "least-days-between-updates": "0",
+        "median-days-between-updates": "29.5"
+    },
+    {
+        "major-version": "iOS 16",
+        "total-days-between-all-updates": "315",
+        "average-days-between-updates": "19.6875",
+        "most-days-between-updates": "42",
+        "least-days-between-updates": "2",
+        "median-days-between-updates": "17"
+    }
+]
