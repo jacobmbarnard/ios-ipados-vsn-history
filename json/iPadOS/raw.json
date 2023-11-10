@@ -453,5 +453,47 @@
         "release-date": "2023-07-24",
         "days-since-last-update": "12",
         "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.0",
+        "release-date": "2023-09-18",
+        "days-since-last-update": "0",
+        "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.0.1",
+        "release-date": "2023-09-21",
+        "days-since-last-update": "3",
+        "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.0.2",
+        "release-date": "2023-09-26",
+        "days-since-last-update": "5",
+        "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.0.3",
+        "release-date": "2023-10-04",
+        "days-since-last-update": "8",
+        "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.1",
+        "release-date": "2023-10-25",
+        "days-since-last-update": "21",
+        "notes": ""
+    },
+    {
+        "major-version": "iPadOS 17",
+        "specific-version": "17.1.1",
+        "release-date": "2023-11-07",
+        "days-since-last-update": "13",
+        "notes": ""
     }
 ]

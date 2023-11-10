@@ -17,7 +17,7 @@
     most-days-between-updates: "72"
     least-days-between-updates: "10"
     median-days-between-updates: "32.5"
-  - major-version: "IPadOS 16"
+  - major-version: "iPadOS 16"
     total-days-between-all-updates: "324"
     average-days-between-updates: "27"
     most-days-between-updates: "53"

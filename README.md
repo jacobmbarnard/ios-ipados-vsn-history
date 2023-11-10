@@ -2,10 +2,12 @@
 
 Provides raw and basic statistical data.
 
-- *Includes iPhoneOS history*
+- *Includes iPhone OS history*
 - *Does NOT include beta, GM, nor RC history*
 
 ## Data
+
+*Note: Some reports may not reflect all iOS or iPadOS 17 data.*
 
 ### iOS (and iPhoneOS) Version History Data
 
@@ -46,3 +48,9 @@ Provides raw and basic statistical data.
   - https://willhains.com/iOS-version-history
 - Wikipedia
   - https://en.wikipedia.org/wiki/IOS_version_history
+
+## See a discrepancy?
+
+- Create an issue.
+- Cite a source.
+- Send a message.

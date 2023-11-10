@@ -126,5 +126,13 @@
         "most-days-between-updates": "42",
         "least-days-between-updates": "2",
         "median-days-between-updates": "17"
+    },
+    {
+        "major-version": "iOS 17",
+        "total-days-between-all-updates": "50",
+        "average-days-between-updates": "8.33333333333333",
+        "most-days-between-updates": "",
+        "least-days-between-updates": "",
+        "median-days-between-updates": ""
     }
 ]
